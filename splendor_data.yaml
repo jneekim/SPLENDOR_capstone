@@ -1,0 +1,13 @@
+
+train: ./datasets/train/images
+val: ./datasets/valid/images
+
+
+nc: 2
+
+
+names:
+
+  - 'gem'
+  - 'card'
+  
